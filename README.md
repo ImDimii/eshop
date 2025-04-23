@@ -238,12 +238,11 @@ ESHOP/
 
 ## Supporto
 Per assistenza tecnica:
-- Email: support@dimishop.com
-- Orari: Lun-Ven 9:00-18:00
+- Contattami: [Mio sito web](https://dimitricotilli.it/)
 - GitHub Issues: [Segnala un Bug](https://github.com/tuouser/ESHOP/issues)
 
 ## Links Utili
-- [Documentazione API](https://github.com/imdimii/ESHOP/wiki/API)
+- [Documentazione API](https://github.com/imdimii/ESHOP/docs/index.html)
 - [Wiki](https://github.com/imdimii/ESHOP/docs/index.html)
 - [Changelog](https://github.com/imdimii/ESHOP/releases)
 
