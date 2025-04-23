@@ -1,6 +1,8 @@
 # ESHOP - Sistema di Vendita Chiavi Digitali
 ![eshop](https://github.com/user-attachments/assets/d33cc704-5c86-482c-82a9-d8c3cd03dd0e)
 
+[LIVE-DEMO](https://dimitricotilli.it/eshop)
+
 ## Descrizione
 ESHOP è una piattaforma completa per la vendita di chiavi digitali, progettata con un'interfaccia moderna e responsive. Il sistema offre funzionalità complete sia per gli utenti che per gli amministratori.
 
@@ -239,6 +241,8 @@ ESHOP/
 
 ## Supporto
 Per assistenza tecnica:
+- LIVE DEMO: [ESHOP-DEMO](https://dimitricotilli.it/eshop)
+- DOCS: [ESHOP-DOCS](https://dimitricotilli.it/eshop/docs)
 - Contattami: [Mio sito web](https://dimitricotilli.it/)
 - GitHub Issues: [Segnala un Bug](https://github.com/imdimii/ESHOP/issues)
 - [Changelog](https://github.com/imdimii/ESHOP/releases)
