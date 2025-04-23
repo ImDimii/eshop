@@ -239,12 +239,9 @@ ESHOP/
 ## Supporto
 Per assistenza tecnica:
 - Contattami: [Mio sito web](https://dimitricotilli.it/)
-- GitHub Issues: [Segnala un Bug](https://github.com/tuouser/ESHOP/issues)
-
-## Links Utili
-- [Documentazione API](https://github.com/imdimii/ESHOP/docs/index.html)
-- [Wiki](https://github.com/imdimii/ESHOP/docs/index.html)
+- GitHub Issues: [Segnala un Bug](https://github.com/imdimii/ESHOP/issues)
 - [Changelog](https://github.com/imdimii/ESHOP/releases)
+
 
 ## Contribuire
 1. Fork del repository
